@@ -5,7 +5,7 @@ const Homeposts = () => {
     <div className="w-full flex mt-8 space-x-2">
     {/*left*/}
     <div className="w-[35%] h-[200px] flex justify-center items-center">
-    <img src="C:/Users/kipko/OneDrive/Desktop/eca/images/3a560748274b807e1fce1f1e2ff34b4a." alt=""className="h-full w-full"/>
+    <img src="C:\Users\kipko\Downloads\istockphoto-1486564860-1024x1024.jpg" alt=""className="h-full w-full"/>
     </div>
     {/*right*/}
     <div className="flex flex-col w-[65%]">
